@@ -61,8 +61,8 @@ export const APPS_DATA: Product[] = [
         { name: "Zoom 100 Peserta 14 Hari", price: "Rp 8.000", priceVal: 8000, durationVal: 14, warranty: true, desc: ["Support all device", "Garansi 7 Hari"] }
     ]},
     { id: 'gpt', name: 'ChatGPT', image: 'https://iili.io/fR1nAL7.png', cat: ['app', 'populer'], packages: [
-        { name: "ChatGPT GO 1 Tahun", price: "Rp 10.000", priceVal: 10000, durationVal: 365, warranty: true, desc: ["Garansi 1x login", "Private Account", "Akses GPT-5 (Limited)", "10x limit"] },
-        { name: "ChatGPT+ 1 Bulan", price: "Rp 15.000", priceVal: 15000, durationVal: 30, tag: "rec", tagName: "POPULAR", warranty: true, desc: ["Garansi 1x login", "Private Account", "Fast Response", "Akses GPT-5 & 4o"] },
+        { name: "ChatGPT GO 1 Tahun", price: "Rp 15.000", priceVal: 10000, durationVal: 365, warranty: true, desc: ["Garansi 1x login", "Private Account", "Akses GPT-5 (Limited)", "10x limit"] },
+        { name: "ChatGPT+ 1 Bulan", price: "Rp 20.000", priceVal: 15000, durationVal: 30, tag: "rec", tagName: "POPULAR", warranty: true, desc: ["Garansi 1x login", "Private Account", "Fast Response", "Akses GPT-5 & 4o"] },
         { name: "ChatGPT+ Head", price: "Rp 20.000", priceVal: 20000, durationVal: 30, warranty: true, desc: ["Garansi 1x login", "Private Account", "Invite 4-5 orang"] }
     ]},
     { id: 'lr', name: 'Lightroom', image: 'https://iili.io/fR1nuXS.png', cat: ['app', 'editing'], packages: [
