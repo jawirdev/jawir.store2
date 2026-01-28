@@ -12,9 +12,9 @@ export const APPS_DATA: Product[] = [
     ]},
     { id: 'capcut', name: 'CapCut', image: 'https://iili.io/fR1n5B9.png', cat: ['app', 'populer', 'editing'], packages: [
         { name: "Capcut Private 7 Hari", price: "Rp 5.000", priceVal: 5000, durationVal: 7, tag: "best", tagName: "BEST SELLER 🔥", warranty: false, desc: ["No garansi", "Private Account", "Max login 3 Device", "Bisa dijual sharing", "Support all device", "Login scan QR"] },
-        { name: "Capcut Private 14 Hari", price: "Rp 8.000", priceVal: 8000, durationVal: 14, tag: "rec", tagName: "RECOMMENDED", warranty: true, desc: ["Garansi 7 hari", "Private Account", "Max login 3 Device", "Bisa dijual sharing", "Support all device"] },
-        { name: "Capcut Private 21 Hari", price: "Rp 12.000", priceVal: 12000, durationVal: 21, warranty: true, desc: ["Garansi 7 hari", "Private Account", "Max login 3 Device", "Bisa dijual sharing", "Support all device"] },
-        { name: "Capcut Private 28 Hari", price: "Rp 15.000", priceVal: 15000, durationVal: 28, warranty: true, desc: ["Garansi 7 hari", "Private Account", "Max login 3 Device", "Bisa dijual sharing", "Support all device"] },
+        { name: "Capcut Private 14 Hari", price: "Rp 9.000", priceVal: 9000, durationVal: 14, tag: "rec", tagName: "RECOMMENDED", warranty: true, desc: ["Garansi 7 hari", "Private Account", "Max login 3 Device", "Bisa dijual sharing", "Support all device"] },
+        { name: "Capcut Private 21 Hari", price: "Rp 13.000", priceVal: 13000, durationVal: 21, warranty: true, desc: ["Garansi 7 hari", "Private Account", "Max login 3 Device", "Bisa dijual sharing", "Support all device"] },
+        { name: "Capcut Private 28 Hari", price: "Rp 16.000", priceVal: 16000, durationVal: 28, warranty: true, desc: ["Garansi 7 hari", "Private Account", "Max login 3 Device", "Bisa dijual sharing", "Support all device"] },
         { name: "Capcut Private 35 Hari", price: "Rp 20.000", priceVal: 20000, durationVal: 35, warranty: true, desc: ["Garansi 7 hari", "Private Account", "Max login 3 Device", "Bisa dijual sharing", "Support all device"] }
     ]},
     { id: 'am', name: 'Alight Motion', image: 'https://files.catbox.moe/3v9hsy.jpg', cat: ['app', 'populer', 'editing'], packages: [
