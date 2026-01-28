@@ -67,7 +67,7 @@ export const APPS_DATA: Product[] = [
     ]},
     { id: 'lr', name: 'Lightroom', image: 'https://iili.io/fR1nuXS.png', cat: ['app', 'editing'], packages: [
         { name: "Lightroom Sharing 1 Bulan", price: "Rp 5.000", priceVal: 5000, durationVal: 30, warranty: true, desc: ["Sharing Account", "Garansi 15 Hari", "Support All Device"] },
-        { name: "Lightroom Sharing 1 Tahun", price: "Rp 10.000", priceVal: 10000, durationVal: 365, warranty: true, desc: ["Sharing Account", "Garansi 6 Bulan", "Support All Device"] }
+        { name: "Lightroom Sharing 1 Tahun", price: "Rp 20.000", priceVal: 20000, durationVal: 365, warranty: true, desc: ["Sharing Account", "Garansi 6 Bulan", "Support All Device"] }
     ]},
     { id: 'meitu', name: 'Meitu', image: 'https://iili.io/f0ZvMYu.webp', cat: ['app', 'new', 'editing'], packages: [
         { name: "Meitu Private 7 Hari", price: "Rp 10.000", priceVal: 10000, durationVal: 7, warranty: false, desc: ["Akun seller", "Only Android", "Private account", "1 device", "No garansi"] },
